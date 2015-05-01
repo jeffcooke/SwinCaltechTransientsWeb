@@ -1,7 +1,7 @@
 <?PHP 
 
 $menu = array( 
-  "home" => "Swinburne Keck Science Workshop", "committee" => "Organising Committee", 
+  "home" => "SwinCal Transients Workshop", "committee" => "Organising Committee", 
   "program" => "Programme", "registration" => "Registration", "speakers" => "Invited Speakers",
   "participants" => "Participants", "venue" => "Venue and Accommodation", 
   "contact" => "Contact Us");

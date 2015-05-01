@@ -1,12 +1,12 @@
 <?PHP
 
-/*
+
   define (ADMIN_EMAIL, "ajameson@swin.edu.au");
   define (TO_EMAIL, "EThackray@groupwise.swin.edu.au");
-  define (CC_EMAIL, "dforbes@astro.swin.edu.au");
-  define (FROM_EMAIL, "dforbes@astro.swin.edu.au");
+  define (CC_EMAIL, "jcooke@astro.swin.edu.au");
+  define (FROM_EMAIL, "jcooke@astro.swin.edu.au");
 
-  $header  = "From: SKSW Web Registration<".FROM_EMAIL.">\r\n";
+  $header  = "From: SCTW Web Registration<".FROM_EMAIL.">\r\n";
   $header .= "MIME-Version: 1.0\r\n";
   $header .= "MIME-Version: 1.0\r\nContent-type:text/html;charset=iso-8859-1\r\n";
 
@@ -47,7 +47,7 @@
   $text = 
     "Dear ".$_GET["Name"].",<br><br>".
     
-    "Thank you for registering for the <b>Swinburne Keck Science Workshop</b> Meeting.<br><br>".
+    "Thank you for registering for the <b>Swinburne CalTech Transients Workshop</b> Meeting.<br><br>".
     "Your registration information has been sent to the Organising Committee<br>".
     "and is also shown below for your reference:<br><br>".
     $reg_info_table.
@@ -65,11 +65,12 @@
 
   header("location: regsuccess.html");
   exit(0);
-*/
 
-  header("location: regclosed.html");
-  exit(0);
 
+  /*
+    header("location: regclosed.html");
+    exit(0);
+  */
 
 
 ?>
