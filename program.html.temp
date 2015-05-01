@@ -1,0 +1,972 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type"
+ content="text/html; charset=ISO-8859-1">
+  <title>UCI Astro Grad Seminar</title>
+  <style type="text/css">
+<!--
+body {
+	background-image: url(GP0091.jpg);
+}
+.style1 {color: rgb(170, 50, 170);
+	font-size: 20px;}
+.style2 {color: #FFFFFF}
+body,td,th {font-family: Times;
+	color: #999999;
+	font-size: 20px;}
+a:link {color: #3366FF;}
+a:visited {color: #1000FF;}
+.style3 {color: rgb(50, 180, 50);
+        font-size: 24px;}
+.style4 {color: #FFFFFF; font-weight: bold;}
+.style5 {color: rgb(200, 50, 50);
+        font-size: 42px;}
+.style6 {color: rgb(200, 0, 0);
+        font-size: 24px;}
+-->
+  </style><!-- ****** Title ****** -->
+</head>
+<body>
+<br>
+<!-- ****** Schedule ****** -->
+<hr>
+<table border="1" width="100%">
+  <tbody>
+    <tr bordercolor="#FFFFFF">
+      <td>&nbsp;</td>
+      <td>
+      <div class="style1" align="center"><strong>Monday, March 26</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="15%">
+      <div align="center"><span class="style1">Time</span></div>
+      </th>
+      <th scope="col" width="25%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+      <th scope="col" width="60%">
+      <div align="center"><span class="style1">Title</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div align="center"><span class="style2">03/30/07</span></div>
+      </td>
+      <td>
+      <div class="style2" align="center">Cesar Chavez Day</div>
+      </td>
+      <td>
+      <div class="style1" align="center">No Meeting</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/06/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/13/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/20/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/27/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Milky Way Satellites</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Louis</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/04/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/11/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/18/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/25/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Memorial Day Weekend</div>
+      </td>
+      <td>
+      <div class="style1" align="center">No Meeting</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">06/01/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <div class="style2" align="center">06/08/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">06/15/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting (Finals week)</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <div class="style2" align="center">06/22/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">SUMMER BREAK</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+<hr>
+
+<p class="style3">Past quarter's schedules</p>
+<hr>
+<table border="1" width="100%">
+  <tbody>
+    <tr bordercolor="#FFFFFF">
+      <td>&nbsp;</td>
+      <td>
+      <div class="style1" align="center"><strong>Fall 2005</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div align="center"><span class="style2">10/10/05</span></div>
+      </td>
+      <td>
+      <div class="style2" align="center">First meeting - Introductions</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/17/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Measuring Spectra with MILAGRO</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Branden</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/24/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Measurement of X-Ray Galaxy Cluster 
+        Dynamical States</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Brian</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/31/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/07/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Low Frequency Detection of Pulsar 
+        Signals</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Coral</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/14/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Close Pairs of Galaxies and the 
+        Halo Occupation Distribution: Reconciling Theory and Observation</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Joel</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/21/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">
+      <div class="style2" align="center">Environment Statistics: <br>
+        CfA and SSRS2 &nbsp;Redshift Surveys</div>
+      </div>
+      </td>
+      <td>
+      <div class="style1" align="center">Heather</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/28/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Chemical Abundances and Kinematics 
+        of the Stellar Populations of M33</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Mike</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">12/05/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting (Finals week) </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">12/12/05</div>
+      </td>
+      <td>
+      <div class="style2" align="center">HAPPY HOLIDAYS</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center"></div>
+      <br>
+      </td>
+      <td>
+      <div class="style1" align="center"><strong>Winter 2006</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">01/09/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">01/16/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Holiday (King Jr. Day)</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">01/23/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Discussion</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Louis</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">01/30/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">MILAGRO science overview</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Branden</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/06/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/13/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Determining the Star Formation 
+        History of M33 and the Large Magellanic Cloud from Analysis of 
+        Color-Magnitude Diagrams</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Matt</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/20/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Holiday (Presidents' Day)</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/27/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">The Evolution of Structure in 
+        X-Ray Clusters of Galaxies</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Brian</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/06/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Discussion</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/13/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/20/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Intercluster light and the 
+        stellar halo</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Chris</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/27/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Spring Break</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center"></div>
+      <br>
+      </td>
+      <td>
+      <div class="style1" align="center"><strong>Spring 2006</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/03/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Discussion </div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/10/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Paper assignment</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/17/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">UCI Center for Cosmology
+        Symposium: Chancellor's Distinguished Fellows Series - 
+        Margaret Geller </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">04/24/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Paper discussions: <br>
+       (1) CIRS: Cluster Infall Regions in the Sloan Digital Sky Survey I. 
+        Infall Patterns and Mass Profiles (Rines & Diaferio, astro-ph/0602032)
+      <br>
+       (2) Local Group Dwarf Galaxies and the Contribution of the First Stars 
+       to Reionization (Tumlinson, astro-ph/0602179)
+      </div>
+      </td>
+      <td>
+      <div class="style1" align="center">(1) Joel <br> (2) Chris </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/01/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting</div>
+      </td>
+      <td>&nbsp;</td>
+     </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/08/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">General Discussions</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/15/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Galaxies and the Cosmic Web<br>
+       Las Cruces NM Conference</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/22/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Paper discussions: <br>
+       Baryon Dynamics, Dark Matter Substructure, and Galaxies
+       (Weinberg et al.  astro-ph/0604393)</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Heather</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">05/29/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Holiday (Memorial Day) </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">06/05/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Personal Research</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Quinn</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">06/12/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting (Finals week) </div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center"></div>
+      <br>
+      </td>
+      <td>
+      <div class="style1" align="center"><strong>Summer 2006</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">06/28/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Rotation Curves from Velocity 
+         Fields in LSB Galaxies</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Rachel Kuzio de Naray</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">07/05/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting </div>
+      </td>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">07/12/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">meta-CDM</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Louis Strigari</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">07/19/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Seminar to pick up in the Fall</div>
+      </td>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center"></div>
+      <br>
+      </td>
+      <td>
+      <div class="style1" align="center"><strong>Fall 2006</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/06/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Advancement to Candidacy Talk: 
+        Theortetical Studies of Galaxy Mergers in a LCDM Cosmology</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Joel Berrier</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/13/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">Constraining Dark Matter Halo 
+        Profiles and Galaxy Formation Models Using Spiral Arm Morphology</div>
+      </td>
+      </td>
+      <td>
+      <div class="style1" align="center">Marc Seigar</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/20/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">The Mass of 2.5 < z < 5 Systems</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Jeff Cooke</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">10/27/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">TBA</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/03/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">TBA</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/10/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">TBA</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/17/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">TBA</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">11/24/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">HAPPY THANKSGIVING</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">12/01/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">TBA</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">12/08/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting (Finals week)</div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">12/15/06</div>
+      </td>
+      <td>
+      <div class="style2" align="center">HAPPY HOLIDAYS</div>
+      </td>
+      <td>
+      <div class="style1" align="center">End of Quarter</div>
+      </td>
+    </tr>
+    <tr bordercolor="#FFFFFF">
+      <td>&nbsp;</td>
+      <td>
+      <div class="style1" align="center"><strong>Winter 2007</strong></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <th scope="col" width="20%">
+      <div align="center"><span class="style1">Date</span></div>
+      </th>
+      <th scope="col" width="48%">
+      <div align="center"><span class="style1">Topic</span></div>
+      </th>
+      <th scope="col" width="32%">
+      <div align="center"><span class="style1">Speaker</span></div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+      <div align="center"><span class="style2">01/19/07</span></div>
+      </td>
+      <td>
+      <div class="style2" align="center">First meeting of the quarter</div>
+      </td>
+      <td>
+      <div class="style1" align="center">Joel and Jeff</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">01/26/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/02/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/09/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/16/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">02/23/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/02/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">
+      <div class="style2" align="center"></div>
+      </div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/09/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>
+      <div class="style1" align="center"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/16/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center"></div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+      <div class="style2" align="center">03/23/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">No meeting (Finals week)</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+     <tr>
+      <td>
+      <div class="style2" align="center">03/30/07</div>
+      </td>
+      <td>
+      <div class="style2" align="center">SPRING BREAK</div>
+      </td>
+      <td>&nbsp;</td>
+    </tr>
+
+  </tbody>
+</table>
+
+<hr>
+<p class="style1"></p>
+<h3 class="style2">&nbsp;</h3>
+</body>
+</html>

@@ -1,0 +1,125 @@
+html, body {
+  height:100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-align: left;
+  background-color: #111111;
+  color: white;
+}
+
+BODY {
+  width: 900px;
+  font-family: arial,helvetica,sans-serif,times;
+  font-size: 10pt;
+  color: white;
+}
+
+#page {
+  position: relative;
+  width: 900px;
+  min-height: 600px;
+}
+
+#menu {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 250px;
+  float: left;
+  margin: 20px;
+}
+
+#main {
+  position: absolute;
+  left: 270px;
+  top: 0px;
+  width: 660px;
+  margin: 20px;
+  min-height: 600px;
+  height: auto;
+}
+
+.content {
+  margin: 10px;  
+  line-height: 12pt;
+}
+
+#keck_sunset {
+  background-image: url("images/keck_sunset_new_660x476.png");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+table.wrapper {
+  background-image: url("images/keck_bg_1x1.png");
+  border-style: solid solid solid solid;
+  border-color: #fa8b20 #fa8b20 #fa8b20 #fa8b20;
+  border-width: 1px 1px 1px 1px;
+  border-spacing: 0;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+}
+
+table.wrapper th {
+  -moz-border-radius-topleft: 6px;
+  -moz-border-radius-topright: 6px;
+  -webkit-border-top-left-radius: 6px;
+  -webkit-border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+table.wrapper td {
+  vertical-align: top;
+  -moz-border-radius-bottomleft: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -webkit-border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+H1 {
+  color: #ff9d3d;
+  font-size: 14pt;
+  font-family: arial,helvetica,sans-serif,times;
+}
+
+H2 {
+  color: white;
+  font-size: 12pt;
+  font-family: arial,helvetica,sans-serif,times;
+}
+
+H3 {
+  color: white;
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: arial,helvetica,sans-serif,times;
+}
+
+li {
+  font-size: 10pt;
+  font-family: arial,helvetica,sans-serif,times;
+}
+
+A:link {
+  color: #ffd5ac;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+A:visited {
+  color: #ffd5ac;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+A:hover {
+  color: #ffd5ac;
+  text-decoration: none;
+  font-weight: normal;
+}
